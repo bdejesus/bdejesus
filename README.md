@@ -1,4 +1,4 @@
-### Hi there 👋
+### Graphic Designer and Frontend Engineer specializing in Usability and Accessibility
 
 <!--
 **bdejesus/bdejesus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
