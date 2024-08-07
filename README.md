@@ -4,7 +4,7 @@ I'm a web design professional specializing in modern web front-end design and de
 
 ## A little about me
 
-Officially, I have a degree in Industrial Design with a concentration on Visual Communication (which is a fancy way of saying Graphic Design). I have many, many years of experience as both graphic designer and full-stack engineer, designing, developing, deploying, and scaling web applications.
+Officially, I have a degree in _Industrial Design with a concentration on Visual Communication_ (which is a fancy way of saying Graphic Design). I have many, many years of experience as both graphic designer and full-stack engineer, designing, developing, deploying, and scaling web applications.
 
 I'm currently working on a personal open source project called [XIVBARS](https://github.com/bdejesus/xiv-bars). It's a webapp for sharing and importing hotbar keymaps into Final Fantasy XIV (a popular MMORPG). It's a project that I like to work on to play with and learn new technologies.
 
