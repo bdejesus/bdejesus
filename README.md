@@ -11,7 +11,7 @@ I'm currently working on a personal open source project called [XIVBARS](https:/
 ## Skills I've acquired over the years
 
 <details>
-<summary>Visual Communication</summary>
+<summary>Graphic Design</summary>
 
 * Design Systems
 * Brand Design
