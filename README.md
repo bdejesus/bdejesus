@@ -1,4 +1,4 @@
-# I'm a Graphic Designer and Frontend Engineer
+# Frontend Engineer &amp; Graphic Designer
 
 I'm a web design professional specializing in modern web front-end design and development. I love building beautiful, progressive, and accessible websites and applications.
 
