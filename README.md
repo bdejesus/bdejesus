@@ -41,6 +41,8 @@ I'm currently working on a personal open source project called [XIVBARS](https:/
 * Ruby on Rails
 * PHP
 * Phython
+* Dart
+* Kotlin
 * PostgreSQL, MySQL
 </details>
 
@@ -55,6 +57,7 @@ I'm currently working on a personal open source project called [XIVBARS](https:/
 * Webpack
 * Prisma
 * TurfJS
+* Flutter
 </details>
 
 <details>
@@ -62,7 +65,8 @@ I'm currently working on a personal open source project called [XIVBARS](https:/
   
 * Git, Github
 * Heroku
-* Google Cloud Services
+* Google Cloud Services (GCS)
+* Amazon Web Services (AWS)
 * Mapbox
 </details>
 
